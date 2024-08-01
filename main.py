@@ -1,4 +1,4 @@
-from coffe_machine import resources, MENU
+from coffee_machine import resources, MENU
 
 
 def is_resources_sufficient(drink):
